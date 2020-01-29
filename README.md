@@ -1,2 +1,3 @@
 # wikiteam.github.io
-Website
+
+Website for WikiTeam project.
